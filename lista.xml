@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<veiculos>
+ 
+  <veiculo>	
+  	 <id>1</id>
+     <nome>Cruze LT 1.8</nome>
+     <foto>logan-mini.jpg</foto>
+     <fotomobile>cruze-mobile.jpg</fotomobile>
+     <bannermobile>cruze-mobile-int.jpg</bannermobile>
+     <banner>banner-logan.jpg</banner>
+     <ofertaesp>bonus-cruze.jpg</ofertaesp>
+     <selo>selo-logan-exp.png</selo>
+     <condicao>A PARTIR DE</condicao>
+     <valor>R$ 00.000,00</valor>
+      <opcional>
+       <op>Ar Condicionado</op>
+       <op>Direção Hidráulica</op>
+       <op>Air Bag</op>
+       <op>ABS</op>
+       <op>Vidros Elétricos</op>
+       <op>Travas Elétricas</op>
+      </opcional>
+      <dotz>5.000</dotz>
+      <sobre>
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis nulla at quam maximus volutpat. Nunc risus orci, lobortis sit amet condimentum in, ullamcorper id massa. Sed a risus vitae justo tincidunt tincidunt posuere elementum felis. Aliquam erat volutpat.
+      </sobre>
+     <juridico>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis nulla at quam maximus volutpat. Nunc risus orci, lobortis sit amet condimentum in, ullamcorper id massa. Sed a risus vitae justo tincidunt tincidunt posuere elementum felis. Aliquam erat volutpat. In a augue ac urna scelerisque varius et sit amet nisi. Aliquam semper maximus lectus, vel interdum purus tincidunt eget. Ut sed laoreet enim. Nullam sit amet pharetra ante, eget consectetur nulla. Vestibulum commodo ultrices turpis a maximus. Ut sed felis auctor massa molestie tincidunt nec egestas urna. Praesent lectus turpis, mattis vitae porta non, congue ut nisl. Pellentesque eros nisi, sagittis sed arcu vitae, consectetur mollis turpis. Phasellus id cursus metus. Suspendisse elementum neque id efficitur dictum. Nam vel metus auctor, varius eros nec, mattis odio. Ut nisl lacus, ornare eu purus a, condimentum mollis nulla.
+     </juridico>
+  </veiculo>
+
+  <veiculo> 
+     <id>2</id>
+   <nome>Cruze LT 1.8</nome>
+     <foto>logan-mini.jpg</foto>
+     <fotomobile>cruze-mobile.jpg</fotomobile>
+     <bannermobile>cruze-mobile-int.jpg</bannermobile>
+     <banner>banner-logan.jpg</banner>
+     <ofertaesp>bonus-cruze.jpg</ofertaesp>
+     <selo>selo-logan-exp.png</selo>
+     <condicao>A PARTIR DE</condicao>
+     <valor>R$ 00.000,00</valor>
+      <opcional>
+       <op>Ar Condicionado</op>
+       <op>Direção Hidráulica</op>
+       <op>Air Bag</op>
+       <op>ABS</op>
+       <op>Vidros Elétricos</op>
+       <op>Travas Elétricas</op>
+      </opcional>
+      <dotz>5.000</dotz>
+      <sobre>
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis nulla at quam maximus volutpat. Nunc risus orci, lobortis sit amet condimentum in, ullamcorper id massa. Sed a risus vitae justo tincidunt tincidunt posuere elementum felis. Aliquam erat volutpat.
+      </sobre>
+     <juridico>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis nulla at quam maximus volutpat. Nunc risus orci, lobortis sit amet condimentum in, ullamcorper id massa. Sed a risus vitae justo tincidunt tincidunt posuere elementum felis. Aliquam erat volutpat. In a augue ac urna scelerisque varius et sit amet nisi. Aliquam semper maximus lectus, vel interdum purus tincidunt eget. Ut sed laoreet enim. Nullam sit amet pharetra ante, eget consectetur nulla. Vestibulum commodo ultrices turpis a maximus. Ut sed felis auctor massa molestie tincidunt nec egestas urna. Praesent lectus turpis, mattis vitae porta non, congue ut nisl. Pellentesque eros nisi, sagittis sed arcu vitae, consectetur mollis turpis. Phasellus id cursus metus. Suspendisse elementum neque id efficitur dictum. Nam vel metus auctor, varius eros nec, mattis odio. Ut nisl lacus, ornare eu purus a, condimentum mollis nulla.
+     </juridico>
+  </veiculo>
+
+
+  <veiculo> 
+     <id>3</id>
+     <nome>Cruze LT 1.8</nome>
+     <foto>logan-mini.jpg</foto>
+     <fotomobile>cruze-mobile.jpg</fotomobile>
+     <bannermobile>cruze-mobile-int.jpg</bannermobile>
+     <banner>banner-logan.jpg</banner>
+     <ofertaesp>bonus-cruze.jpg</ofertaesp>
+     <selo>selo-logan-exp.png</selo>
+     <condicao>A PARTIR DE</condicao>
+     <valor>R$ 90.000,00</valor>
+      <opcional>
+       <op>A Condicionado</op>
+       <op>Direção Hidráulica</op>
+       <op>Air Bag</op>
+       <op>ABS</op>
+       <op>Vidros Elétricos</op>
+       <op>Travas Elétricas</op>
+      </opcional>
+      <dotz>5.000</dotz>
+      <sobre>
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis nulla at quam maximus volutpat. Nunc risus orci, lobortis sit amet condimentum in, ullamcorper id massa. Sed a risus vitae justo tincidunt tincidunt posuere elementum felis. Aliquam erat volutpat.
+      </sobre>
+     <juridico>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis nulla at quam maximus volutpat. Nunc risus orci, lobortis sit amet condimentum in, ullamcorper id massa. Sed a risus vitae justo tincidunt tincidunt posuere elementum felis. Aliquam erat volutpat. In a augue ac urna scelerisque varius et sit amet nisi. Aliquam semper maximus lectus, vel interdum purus tincidunt eget. Ut sed laoreet enim. Nullam sit amet pharetra ante, eget consectetur nulla. Vestibulum commodo ultrices turpis a maximus. Ut sed felis auctor massa molestie tincidunt nec egestas urna. Praesent lectus turpis, mattis vitae porta non, congue ut nisl. Pellentesque eros nisi, sagittis sed arcu vitae, consectetur mollis turpis. Phasellus id cursus metus. Suspendisse elementum neque id efficitur dictum. Nam vel metus auctor, varius eros nec, mattis odio. Ut nisl lacus, ornare eu purus a, condimentum mollis nulla.
+     </juridico>
+  </veiculo>
+
+
+  <veiculo> 
+     <id>4</id>
+    <nome>Cruze LT 1.8</nome>
+     <foto>logan-mini.jpg</foto>
+     <fotomobile>cruze-mobile.jpg</fotomobile>
+     <bannermobile>cruze-mobile-int.jpg</bannermobile>
+     <banner>banner-logan.jpg</banner>
+     <ofertaesp>bonus-cruze.jpg</ofertaesp>
+     <selo>selo-logan-exp.png</selo>
+     <condicao>A PARTIR DE</condicao>
+     <valor>R$ 00.000,00</valor>
+      <opcional>
+       <op>Ar Condicionado</op>
+       <op>Direção Hidráulica</op>
+       <op>Air Bag</op>
+       <op>ABS</op>
+       <op>Vidros Elétricos</op>
+       <op>Travas Elétricas</op>
+      </opcional>
+      <dotz>5.000</dotz>
+      <sobre>
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis nulla at quam maximus volutpat. Nunc risus orci, lobortis sit amet condimentum in, ullamcorper id massa. Sed a risus vitae justo tincidunt tincidunt posuere elementum felis. Aliquam erat volutpat.
+      </sobre>
+     <juridico>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis nulla at quam maximus volutpat. Nunc risus orci, lobortis sit amet condimentum in, ullamcorper id massa. Sed a risus vitae justo tincidunt tincidunt posuere elementum felis. Aliquam erat volutpat. In a augue ac urna scelerisque varius et sit amet nisi. Aliquam semper maximus lectus, vel interdum purus tincidunt eget. Ut sed laoreet enim. Nullam sit amet pharetra ante, eget consectetur nulla. Vestibulum commodo ultrices turpis a maximus. Ut sed felis auctor massa molestie tincidunt nec egestas urna. Praesent lectus turpis, mattis vitae porta non, congue ut nisl. Pellentesque eros nisi, sagittis sed arcu vitae, consectetur mollis turpis. Phasellus id cursus metus. Suspendisse elementum neque id efficitur dictum. Nam vel metus auctor, varius eros nec, mattis odio. Ut nisl lacus, ornare eu purus a, condimentum mollis nulla.
+     </juridico>
+  </veiculo>
+
+
+
+  <veiculo> 
+     <id>5</id>
+     <nome>Cruze LT 1.8</nome>
+     <foto>logan-mini.jpg</foto>
+     <fotomobile>cruze-mobile.jpg</fotomobile>
+     <bannermobile>cruze-mobile-int.jpg</bannermobile>
+     <banner>banner-logan.jpg</banner>
+     <ofertaesp>bonus-cruze.jpg</ofertaesp>
+     <selo>selo-logan-exp.png</selo>
+     <condicao>A PARTIR DE</condicao>
+     <valor>R$ 00.000,00</valor>
+      <opcional>
+       <op>Ar Condicionado</op>
+       <op>Direção Hidráulica</op>
+       <op>Air Bag</op>
+       <op>ABS</op>
+       <op>Vidros Elétricos</op>
+       <op>Travas Elétricas</op>
+      </opcional>
+      <dotz>5.000</dotz>
+      <sobre>
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis nulla at quam maximus volutpat. Nunc risus orci, lobortis sit amet condimentum in, ullamcorper id massa. Sed a risus vitae justo tincidunt tincidunt posuere elementum felis. Aliquam erat volutpat.
+      </sobre>
+     <juridico>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis nulla at quam maximus volutpat. Nunc risus orci, lobortis sit amet condimentum in, ullamcorper id massa. Sed a risus vitae justo tincidunt tincidunt posuere elementum felis. Aliquam erat volutpat. In a augue ac urna scelerisque varius et sit amet nisi. Aliquam semper maximus lectus, vel interdum purus tincidunt eget. Ut sed laoreet enim. Nullam sit amet pharetra ante, eget consectetur nulla. Vestibulum commodo ultrices turpis a maximus. Ut sed felis auctor massa molestie tincidunt nec egestas urna. Praesent lectus turpis, mattis vitae porta non, congue ut nisl. Pellentesque eros nisi, sagittis sed arcu vitae, consectetur mollis turpis. Phasellus id cursus metus. Suspendisse elementum neque id efficitur dictum. Nam vel metus auctor, varius eros nec, mattis odio. Ut nisl lacus, ornare eu purus a, condimentum mollis nulla.
+     </juridico>
+  </veiculo>
+
+
+
+  <veiculo> 
+     <id>6</id>
+    <nome>Cruze LT 1.8</nome>
+     <foto>logan-mini.jpg</foto>
+     <fotomobile>cruze-mobile.jpg</fotomobile>
+     <bannermobile>cruze-mobile-int.jpg</bannermobile>
+     <banner>banner-logan.jpg</banner>
+     <ofertaesp>bonus-cruze.jpg</ofertaesp>
+     <selo>selo-logan-exp.png</selo>
+     <condicao>A PARTIR DE</condicao>
+     <valor>R$ 00.000,00</valor>
+      <opcional>
+       <op>Ar Condicionado</op>
+       <op>Direção Hidráulica</op>
+       <op>Air Bag</op>
+       <op>ABS</op>
+       <op>Vidros Elétricos</op>
+       <op>Travas Elétricas</op>
+      </opcional>
+      <dotz>5.000</dotz>
+      <sobre>
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis nulla at quam maximus volutpat. Nunc risus orci, lobortis sit amet condimentum in, ullamcorper id massa. Sed a risus vitae justo tincidunt tincidunt posuere elementum felis. Aliquam erat volutpat.
+      </sobre>
+     <juridico>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis nulla at quam maximus volutpat. Nunc risus orci, lobortis sit amet condimentum in, ullamcorper id massa. Sed a risus vitae justo tincidunt tincidunt posuere elementum felis. Aliquam erat volutpat. In a augue ac urna scelerisque varius et sit amet nisi. Aliquam semper maximus lectus, vel interdum purus tincidunt eget. Ut sed laoreet enim. Nullam sit amet pharetra ante, eget consectetur nulla. Vestibulum commodo ultrices turpis a maximus. Ut sed felis auctor massa molestie tincidunt nec egestas urna. Praesent lectus turpis, mattis vitae porta non, congue ut nisl. Pellentesque eros nisi, sagittis sed arcu vitae, consectetur mollis turpis. Phasellus id cursus metus. Suspendisse elementum neque id efficitur dictum. Nam vel metus auctor, varius eros nec, mattis odio. Ut nisl lacus, ornare eu purus a, condimentum mollis nulla.
+     </juridico>
+  </veiculo>
+
+  <veiculo> 
+     <id>7</id>
+     <nome>Cruze LT 1.8</nome>
+     <foto>logan-mini.jpg</foto>
+     <fotomobile>cruze-mobile.jpg</fotomobile>
+     <bannermobile>cruze-mobile-int.jpg</bannermobile>
+     <banner>banner-logan.jpg</banner>
+     <ofertaesp>bonus-cruze.jpg</ofertaesp>
+     <selo>selo-logan-exp.png</selo>
+     <condicao>A PARTIR DE</condicao>
+     <valor>R$ 00.000,00</valor>
+      <opcional>
+       <op>Ar Condicionado</op>
+       <op>Direção Hidráulica</op>
+       <op>Air Bag</op>
+       <op>ABS</op>
+       <op>Vidros Elétricos</op>
+       <op>Travas Elétricas</op>
+      </opcional>
+      <dotz>5.000</dotz>
+      <sobre>
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis nulla at quam maximus volutpat. Nunc risus orci, lobortis sit amet condimentum in, ullamcorper id massa. Sed a risus vitae justo tincidunt tincidunt posuere elementum felis. Aliquam erat volutpat.
+      </sobre>
+     <juridico>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis nulla at quam maximus volutpat. Nunc risus orci, lobortis sit amet condimentum in, ullamcorper id massa. Sed a risus vitae justo tincidunt tincidunt posuere elementum felis. Aliquam erat volutpat. In a augue ac urna scelerisque varius et sit amet nisi. Aliquam semper maximus lectus, vel interdum purus tincidunt eget. Ut sed laoreet enim. Nullam sit amet pharetra ante, eget consectetur nulla. Vestibulum commodo ultrices turpis a maximus. Ut sed felis auctor massa molestie tincidunt nec egestas urna. Praesent lectus turpis, mattis vitae porta non, congue ut nisl. Pellentesque eros nisi, sagittis sed arcu vitae, consectetur mollis turpis. Phasellus id cursus metus. Suspendisse elementum neque id efficitur dictum. Nam vel metus auctor, varius eros nec, mattis odio. Ut nisl lacus, ornare eu purus a, condimentum mollis nulla.
+     </juridico>
+  </veiculo>
+
+
+  <veiculo> 
+     <id>8</id>
+    <nome>Cruze LT 1.8</nome>
+     <foto>logan-mini.jpg</foto>
+     <fotomobile>cruze-mobile.jpg</fotomobile>
+     <bannermobile>cruze-mobile-int.jpg</bannermobile>
+     <banner>banner-logan.jpg</banner>
+     <ofertaesp>bonus-cruze.jpg</ofertaesp>
+     <selo>selo-logan-exp.png</selo>
+     <condicao>A PARTIR DE</condicao>
+     <valor>R$ 00.000,00</valor>
+      <opcional>
+       <op>Ar Condicionado</op>
+       <op>Direção Hidráulica</op>
+       <op>Air Bag</op>
+       <op>ABS</op>
+       <op>Vidros Elétricos</op>
+       <op>Travas Elétricas</op>
+      </opcional>
+      <dotz>5.000</dotz>
+      <sobre>
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis nulla at quam maximus volutpat. Nunc risus orci, lobortis sit amet condimentum in, ullamcorper id massa. Sed a risus vitae justo tincidunt tincidunt posuere elementum felis. Aliquam erat volutpat.
+      </sobre>
+     <juridico>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis nulla at quam maximus volutpat. Nunc risus orci, lobortis sit amet condimentum in, ullamcorper id massa. Sed a risus vitae justo tincidunt tincidunt posuere elementum felis. Aliquam erat volutpat. In a augue ac urna scelerisque varius et sit amet nisi. Aliquam semper maximus lectus, vel interdum purus tincidunt eget. Ut sed laoreet enim. Nullam sit amet pharetra ante, eget consectetur nulla. Vestibulum commodo ultrices turpis a maximus. Ut sed felis auctor massa molestie tincidunt nec egestas urna. Praesent lectus turpis, mattis vitae porta non, congue ut nisl. Pellentesque eros nisi, sagittis sed arcu vitae, consectetur mollis turpis. Phasellus id cursus metus. Suspendisse elementum neque id efficitur dictum. Nam vel metus auctor, varius eros nec, mattis odio. Ut nisl lacus, ornare eu purus a, condimentum mollis nulla.
+     </juridico>
+  </veiculo>
+
+
+
+
+
+  <veiculo> 
+     <id>9</id>
+     <nome>Cruze LT 1.8</nome>
+     <foto>logan-mini.jpg</foto>
+     <fotomobile>cruze-mobile.jpg</fotomobile>
+     <bannermobile>cruze-mobile-int.jpg</bannermobile>
+     <banner>banner-logan.jpg</banner>
+     <ofertaesp>bonus-cruze.jpg</ofertaesp>
+     <selo>selo-logan-exp.png</selo>
+     <condicao>A PARTIR DE</condicao>
+     <valor>R$ 00.000,00</valor>
+      <opcional>
+       <op>Ar Condicionado</op>
+       <op>Direção Hidráulica</op>
+       <op>Air Bag</op>
+       <op>ABS</op>
+       <op>Vidros Elétricos</op>
+       <op>Travas Elétricas</op>
+      </opcional>
+      <dotz>5.000</dotz>
+      <sobre>
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis nulla at quam maximus volutpat. Nunc risus orci, lobortis sit amet condimentum in, ullamcorper id massa. Sed a risus vitae justo tincidunt tincidunt posuere elementum felis. Aliquam erat volutpat.
+      </sobre>
+     <juridico>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis nulla at quam maximus volutpat. Nunc risus orci, lobortis sit amet condimentum in, ullamcorper id massa. Sed a risus vitae justo tincidunt tincidunt posuere elementum felis. Aliquam erat volutpat. In a augue ac urna scelerisque varius et sit amet nisi. Aliquam semper maximus lectus, vel interdum purus tincidunt eget. Ut sed laoreet enim. Nullam sit amet pharetra ante, eget consectetur nulla. Vestibulum commodo ultrices turpis a maximus. Ut sed felis auctor massa molestie tincidunt nec egestas urna. Praesent lectus turpis, mattis vitae porta non, congue ut nisl. Pellentesque eros nisi, sagittis sed arcu vitae, consectetur mollis turpis. Phasellus id cursus metus. Suspendisse elementum neque id efficitur dictum. Nam vel metus auctor, varius eros nec, mattis odio. Ut nisl lacus, ornare eu purus a, condimentum mollis nulla.
+     </juridico>
+  </veiculo>
+
+
+
+  <veiculo> 
+     <id>10</id>
+    <nome>Cruze LT 1.8</nome>
+     <foto>logan-mini.jpg</foto>
+     <fotomobile>cruze-mobile.jpg</fotomobile>
+     <bannermobile>cruze-mobile-int.jpg</bannermobile>
+     <banner>banner-logan.jpg</banner>
+     <ofertaesp>bonus-cruze.jpg</ofertaesp>
+     <selo>selo-logan-exp.png</selo>
+     <condicao>A PARTIR DE</condicao>
+     <valor>R$ 00.000,00</valor>
+      <opcional>
+       <op>Ar Condicionado</op>
+       <op>Direção Hidráulica</op>
+       <op>Air Bag</op>
+       <op>ABS</op>
+       <op>Vidros Elétricos</op>
+       <op>Travas Elétricas</op>
+      </opcional>
+      <dotz>5.000</dotz>
+      <sobre>
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis nulla at quam maximus volutpat. Nunc risus orci, lobortis sit amet condimentum in, ullamcorper id massa. Sed a risus vitae justo tincidunt tincidunt posuere elementum felis. Aliquam erat volutpat.
+      </sobre>
+     <juridico>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis nulla at quam maximus volutpat. Nunc risus orci, lobortis sit amet condimentum in, ullamcorper id massa. Sed a risus vitae justo tincidunt tincidunt posuere elementum felis. Aliquam erat volutpat. In a augue ac urna scelerisque varius et sit amet nisi. Aliquam semper maximus lectus, vel interdum purus tincidunt eget. Ut sed laoreet enim. Nullam sit amet pharetra ante, eget consectetur nulla. Vestibulum commodo ultrices turpis a maximus. Ut sed felis auctor massa molestie tincidunt nec egestas urna. Praesent lectus turpis, mattis vitae porta non, congue ut nisl. Pellentesque eros nisi, sagittis sed arcu vitae, consectetur mollis turpis. Phasellus id cursus metus. Suspendisse elementum neque id efficitur dictum. Nam vel metus auctor, varius eros nec, mattis odio. Ut nisl lacus, ornare eu purus a, condimentum mollis nulla.
+     </juridico>
+  </veiculo>
+
+
+</veiculos>
